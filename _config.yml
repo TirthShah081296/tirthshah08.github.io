@@ -108,11 +108,15 @@ analytics:
 # Site Author
 author:
   name             : "Tirth Shah"
-  avatar           : "D:/Iphone Pics/DCIM/101APPLE/Portfolio Avatar.jpg"
+  avatar           : "https://github.com/TirthShah081296/tirthshah081296.github.io/blob/master/Images/Portfolio%20Avatar.JPG"
   bio              : "Data Science | Machine Learning | Artificial Intelligence | Data Enthusiast | Software Engineer"
   location         : "Tempe, AZ"
   email            : "tpshah2@asu.edu"
   links:
+    - label: "E-mail"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: mailto:your.name@email.com
+      url : mailto:tpshah2@asu.edu
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -280,14 +284,5 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
-      related: true
-
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
       share: true
       related: true
