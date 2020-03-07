@@ -135,7 +135,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Linkedin"
-      icon: "fa fa-linkedin-square"
+      icon: "fab fa-fw fa-Linkedin"
       url: "https://www.linkedin.com/in/tirthshah08"
     - label: "Resume"
       icon: "fa fa-file"
