@@ -109,12 +109,13 @@ analytics:
 author:
   name             : "Tirth Shah"
   avatar           : "https://github.com/TirthShah081296/tirthshah081296.github.io/blob/master/Images/Portfolio%20Avatar.JPG"
-  bio              : "Data Science | Machine Learning | Artificial Intelligence | Data Enthusiast"
+  bio              : "Data Science, Machine Learning, Artificial Intelligence, Data Enthusiast"
   location         : "Tempe, Arizona"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
+      url: mailto:tpshah2@asu.edu
       # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
