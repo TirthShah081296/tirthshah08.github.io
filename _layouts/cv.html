@@ -1,0 +1,206 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+{% include _head.html %}
+<style>
+  .bottom-three {
+     margin-bottom: 1.5cm;
+   }
+  .bottom-small {
+     margin-bottom: 1cm;
+   }
+</style>
+</head>
+
+<body class="page">
+
+{% include _browser-upgrade.html %}
+
+{% include _navigation.html %}
+
+{% if page.image.feature %}
+  <div class="image-wrap">
+  <img src=
+    {% if page.image.feature contains 'http://' %}
+      "{{ page.image.feature }}"
+    {% elsif page.image.feature contains 'https://' %}
+      "{{ page.image.feature }}"
+    {% else %}
+      "{{ site.url }}/images/{{ page.image.feature }}"
+    {% endif %}
+  alt="{{ page.title }} feature image">
+  {% if page.image.credit %}
+    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+  {% endif %}
+  </div><!-- /.image-wrap -->
+{% endif %}
+<div id="main" role="main">
+  <div class="article-author-side">
+    {% include _author-bio.html %}
+  </div>
+  <article>
+    <h1>{{ page.title }}</h1>
+    <div class="article-wrap">
+  <br/>
+  
+  
+    <p align="center" class=bottom-small><img src="{{ site.url }}/images/CV/009-mortarboard.png" alt="Education" width="70" height="70"></p>
+	<p align="justify">&#8226 I am currently a <strong>master's</strong> student in the Department of Computer Science at  <strong>Arizona State University</strong>. I plan to graduate on May 2020.</p>
+	<p align="justify">&#8226 I got a <strong>BE</strong> degree in <strong>Computer Engineering</strong>  from <strong>Gujarat Technological University</strong> in 2018.</p>
+<br/>
+
+ 
+    <p align="center" class=bottom-small><img src="{{ site.url }}/images/CV/008-monitor.png" alt="Computer Skills" width="70" height="70"></p>
+    
+    <style>
+      td {
+        vertical-align: text-top;
+        padding: 10px;
+      }
+/*       
+      .WorkExContent::before{
+        content: "\2022";
+        margin-right: 1em;
+      } */
+    </style>
+    <p align="justify">
+      <table>
+         <tr>
+            <td><strong>Programming</strong></td>
+            <td>Python, Java, C, C++, Matlab, R, JavaScript, Sql.</td>
+         </tr> 
+
+         <tr>
+            <td><strong>Tools/Technologies</strong></td>
+            <td>Android, MySql, OracleDB, J2EE, Tensorflow, Sklearn, Pandas, Git, Tableau, D3, Jquery, Bootstrap.</td>
+         </tr>
+
+         <tr>
+            <td><strong>Interests</strong></td>
+            <td>Data Analysis, Cloud Computing, Deep Learning, Artificial Intelligence, Full Stack Development, Web Development, Data Visualization.</td>
+         </tr>
+
+      </table>
+    
+    </p>
+
+    <br/>
+    <p align="center" class=bottom-small><img src="{{ site.url }}/images/CV/004-briefcase.png" alt="Work Experience" width="70" height="70"></p>
+    <br/>
+    <p class="ExperienceHeader">
+        <span class="WorkExTitle">Cloud Developer Data Intelligence</span>
+        <span class="WorkExDate">August 2019 </span>
+        <span class="WorkExCompany">CIC, ASU</span>
+        <span class="WorkExLocation">Tempe, Arizona</span>
+    </p>
+    <p>
+        <span class="WorkExContent">
+          Working with ASU smart city cloud innovation centre in collaboration with AWS to solve community problems using AWS Services.
+          </span>
+    </p>
+    
+    <br/>
+    <p class="ExperienceHeader">
+        <span class="WorkExTitle">Software Development Engineering Intern</span>
+        <span class="WorkExDate">May 2019 - August 2019</span>
+        <span class="WorkExCompany">Amazon</span>
+        <span class="WorkExLocation">Austin, Texas</span>
+    </p>
+    <p>
+        <span class="WorkExContent">Moved an internal application to Service Oriented Architecture using AWS API Gateway, 
+          Lambda, SignatureV4, IAM, Route53, ACM. Moreover, all the components created using Cloud Formation using Java CDK.
+          </span>
+    </p>
+<br/>
+    <p class="ExperienceHeader">
+        <span class="WorkExTitle">Graduate Service Assistant</span>
+        <span class="WorkExDate">Sept 2018 - May 2019</span>
+        <span class="WorkExCompany">Arizona State University</span>
+        <span class="WorkExLocation">Tempe, Arizona</span>
+    </p>
+    <p>
+        <span class="WorkExContent">Grader for Logic in Computer Science. (CSE 259) under <a href="http://peace.eas.asu.edu/joolee/"> Dr. Joohyung Lee.</a></span>
+        <span class="WorkExContent">Grader for Database Management. (CSE 412) under <a href="http://www.public.asu.edu/~mutsumi/"> Dr. Mutsumi Nakamura.</a>  </span>
+        <span class="WorkExContent">Responsibilities : Grading assignments, homework of the students and providing feedback. 
+          Tutoring the students to solve doubts about the assignments, homework and lectures.</span>
+    </p>
+<br/>
+    <p class="ExperienceHeader">
+      <span class="WorkExTitle">Design Reviewer for EPICS</span>
+      <span class="WorkExDate">Sept 2018 - Dec 2018</span>
+      <span class="WorkExCompany">Arizona State University</span>
+      <span class="WorkExLocation">Tempe, Arizona</span>
+  </p>
+  <p>
+      <span class="WorkExContent">The Engineering Projects in Community Service program, known as <a href="https://epics.engineering.asu.edu/">EPICS</a>, is a national award-winning social entrepreneurship program. 
+        Teams design, build and deploy systems to solve engineering-based problems for charities, schools and other not-for-profit organizations.</span>
+      <span class="WorkExContent">Responsibilities include providing guided mentorship and feedback on a variety of projects related to the EPICS program.
+         The assistance is related primarily to design reviews and an in-depth review of team material submitted prior to the review.</span>
+  </p>
+		<!---
+	<br/>
+	<p align="center" class=bottom-small><img src="{{ site.url }}/images/CV/001-medal.png" alt="Honors and Awards" width="70" height="70" style="padding:5px;"></p>
+	<p align="justify">&#8226 I had independently won a good number of awards in domestic and international methematical modeling contests (which are team contests), including <a href="http://en.mcm.edu.cn/" target="_blank"><strong>CUMCM</strong></a> (Contemporary Undergraduate Mathematical Contest in Modeling) and <a href="http://www.comap.com/undergraduate/contests/" target="_blank"><strong>MCM/ICM</strong></a> (Mathematical Contest in Modeling/The Interdisciplinary Contest in Modeling), when I was an undergraduate student majored in Biotechnology in China.</p>
+	<p align="justify">&#8226 I had been taking different levels of <strong>Mathematical Olympiad</strong> for decades since my childhood. But I have only won a second prize once in a regional college-level domestic regional competition. Purhaps I am not that talented in Math.</p>
+	<p align="justify">&#8226 I had been awarded almost all the top honors and scholarships, including <strong>President's List</strong> and <strong>National Scholarship</strong> three years in a row, when I was in college. But I only won an <strong>Outstanding Research Poster Award</strong> in the Biochemistry Deparment Retreat despite my four-year effort at Duke University, right before my termination from Duke in 2016.</p>
+    -->
+ 	
+    
+        
+	<br/>
+    <p align="center" class=bottom-small><img src="{{ site.url }}/images/CV/006-chat.png" alt="Languages" width="70" height="70"></p>
+    <p align="justify">&#8226 <strong>Hindi</strong> and <strong>Gujarati</strong> are my native languages.</p>
+    <p align="justify">&#8226 My <strong>English</strong> is proficient.</p>
+    
+	<br/>
+
+    {{ content }}
+    </div><!-- /.article-wrap -->
+    {% if site.disqus_shortname and page.comments %}
+      <section id="disqus_thread"></section><!-- /#disqus_thread -->
+    {% endif %}
+  </article>
+</div><!-- /#index -->
+
+<div class="footer-wrap">
+  <footer>
+    {% include _footer.html %}
+  </footer>
+</div><!-- /.footer-wrap -->
+
+{% include _scripts.html %}          
+<script>
+  $(function(){
+    
+    $(".ExperienceHeader")
+    .css("margin-bottom","2.3em");
+
+    $(".WorkExTitle")
+    .css("font-size","bigger")
+    .css("font-weight","bolder");
+
+    $(".WorkExDate")
+    .css("display","block")
+    .css("font-size","smaller");
+
+    $(".WorkExCompany")
+    .css("display","block")
+    .css("font-weight","bolder")
+    .css("font-size","smaller");
+
+    $(".WorkExLocation")
+    .css("font-size","smaller");
+
+    $(".WorkExContent")
+    .css("text-align","justify")
+    .css("display","list-item")
+    .css("list-style-position","outside");
+
+    
+  });
+</script>
+</body>
+</html>
