@@ -125,9 +125,9 @@ author:
       icon: "fab fa-fw fa-github-square"
       # url: "https://github.com/"
       url: "https://github.com/TirthShah081296"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-square"
-      url: "https://www.linkedin.com/in/tirthshah08"
+    # - label: "Linkedin"
+    #   icon: "fab fa-fw fa-linkedin-square"
+    #   url: "https://www.linkedin.com/in/tirthshah08"
     -label: "Resume"
       icon: "fab fa-fw fa-file"
       url: "https://drive.google.com/open?id=1mUiX7OFPwWsRzw0GfqeOjOtOtsSrS0Ms"
@@ -143,9 +143,9 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/TirthShah081296"
       # url:
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/tirthshah08"
+    # - label: "Linkedin"
+    #   icon: "fab fa-fw fa-linkedin"
+    #   url: "https://www.linkedin.com/in/tirthshah08"
 
 
 # Reading Files
