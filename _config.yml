@@ -111,26 +111,26 @@ author:
   avatar           : "https://github.com/TirthShah081296/tirthshah081296.github.io/blob/master/Images/Portfolio%20Avatar.JPG"
   bio              : "Data Science | Machine Learning | Artificial Intelligence | Data Enthusiast | Software Engineer"
   location         : "Tempe, AZ"
-  email            : "tpshah2@asu.edu"
+  email            :
   links:
     - label: "E-mail"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
-      url : "mailto:tpshah2@asu.edu"
+      # url : "mailto:tpshah2@asu.edu"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-      url: "https://www.facebook.com/tirthpshah96"
+      # url: "https://www.facebook.com/tirthpshah96"
     - label: "GitHub"
       icon: "fab fa-fw fa-github-square"
       # url: "https://github.com/"
-      url: "https://github.com/TirthShah081296"
+      # url: "https://github.com/TirthShah081296"
     # - label: "Linkedin"
     #   icon: "fab fa-fw fa-linkedin-square"
     #   url: "https://www.linkedin.com/in/tirthshah08"
     -label: "Resume"
       icon: "fab fa-fw fa-file"
-      url: "https://drive.google.com/open?id=1mUiX7OFPwWsRzw0GfqeOjOtOtsSrS0Ms"
+      # url: "https://drive.google.com/open?id=1mUiX7OFPwWsRzw0GfqeOjOtOtsSrS0Ms"
 
 # Site Footer
 footer:
@@ -138,10 +138,10 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
-      url: "https://www.facebook.com/tirthpshah96"
+      # url: "https://www.facebook.com/tirthpshah96"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/TirthShah081296"
+      # url: "https://github.com/TirthShah081296"
       # url:
     # - label: "Linkedin"
     #   icon: "fab fa-fw fa-linkedin"
