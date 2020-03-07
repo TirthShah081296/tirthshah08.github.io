@@ -3,7 +3,7 @@ layout: page
 title: "Coursework"
 permalink : /coursework/
 tags: [Coursework]
-author_profile: true
+author _profile: true
 header:
   image: ""
 ---
@@ -16,7 +16,7 @@ header:
 <table>
 
 <tr height="50">
-        <th>No.</th>
+        <th>Course No.</th>
         <th>Course title</th>
         <th>Instructor</th>
 </tr>

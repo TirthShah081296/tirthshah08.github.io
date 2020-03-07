@@ -310,7 +310,7 @@ defaults:
 
   - scope:
       path: ""
-      type: pages
+      type: page
     values:
       layout: single
       author_profile: true
