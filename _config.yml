@@ -135,10 +135,10 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fa fa-linkedin-square"
       url: "https://www.linkedin.com/in/tirthshah08"
     - label: "Resume"
-      icon: "fa fa-file-square"
+      icon: "fa fa-file"
       url: "https://drive.google.com/open?id=1mUiX7OFPwWsRzw0GfqeOjOtOtsSrS0Ms"
 
 # Site Footer
