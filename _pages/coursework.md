@@ -2,9 +2,9 @@
 title: "Coursework"
 permalink : /coursework/
 tags: [Coursework]
-author_profile: true
 header:
   image: ""
+author_profile: true
 ---
 ### Master's in Computer Science
 
