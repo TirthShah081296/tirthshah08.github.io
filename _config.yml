@@ -126,12 +126,20 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
+      url: "https://www.facebook.com/tirthpshah96"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
+      url: "https://github.com/TirthShah081296"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/tirthshah08"
+    -label: "Resume"
+      icon: "fab fa-fw fa-file"
+      url: "https://drive.google.com/open?id=1mUiX7OFPwWsRzw0GfqeOjOtOtsSrS0Ms"
 
 # Site Footer
 footer:
