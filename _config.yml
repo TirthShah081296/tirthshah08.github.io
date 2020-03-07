@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -135,10 +135,10 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-Linkedin"
+      icon: "fab fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/tirthshah08"
     - label: "Resume"
-      icon: "fa fa-file"
+      icon: "fa fa-file-square"
       url: "https://drive.google.com/open?id=1mUiX7OFPwWsRzw0GfqeOjOtOtsSrS0Ms"
 
 # Site Footer
