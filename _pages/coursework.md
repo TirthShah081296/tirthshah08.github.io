@@ -1,9 +1,8 @@
 ---
-layout: page
 title: "Coursework"
 permalink : /coursework/
 tags: [Coursework]
-author _profile: true
+author_profile: true
 header:
   image: ""
 ---
