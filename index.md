@@ -1,12 +1,12 @@
 ---
 layout: home2
-title: Tirth TirthShah081296
-description: "Welcome to my Portfolio"
+title: Vinit Sheth
+description: "Vinit Sheth's Website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: /images/wallpaper.jpg
+  feature: /images/website_images/vinit-cover-1.jpg
 ---
-<!---
+<!--- 
 <div>
 <img id = "signature" src = "{{ site.url }}/images/author_images/leimao_chinese_cropped.png">
 <style>
@@ -18,7 +18,7 @@ image:
 </style>
 </div>
 --->
-<!---
+<!--- 
 <br />
 
 <div class = "titled-image">
@@ -31,7 +31,7 @@ image:
 
 ### Who am I
 
-My name is Vinit Sheth. I am a master student in the Department of Computer Science at Arizona State University. My research interests are mainly in the areas of machine learning and artificial intelligence.
+My name is Vinit Sheth. I am a master student in the Department of Computer Science at Arizona State University. My research interests are mainly in the areas of machine learning and artificial intelligence. 
 
 <br />
 
@@ -49,7 +49,7 @@ With the help from MOOC, I was able to quickly catch up. I have done a good numb
 
 ### About This Site
 
-This website was formally built in the spring of 2019, but the style of the site has been changed several times.
+This website was formally built in the spring of 2019, but the style of the site has been changed several times. 
 
 <br />
 
@@ -61,3 +61,4 @@ The main purposes of this website are listed here:
 ### Contact Me
 
 I do not use social applications quite often. The best way to reach me is [Email](mailto:vsheth2@asu.edu).
+
