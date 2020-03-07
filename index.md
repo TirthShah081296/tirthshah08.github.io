@@ -4,11 +4,11 @@ author_profile: true
 header:
   image: "/images/waterfront.jpg"
 ---
-
+<div style="text-align: justify">
 # About me
-{I am enrolled in **graduate** program in **Computer Science** at **Arizona State University** anticipated to graduate in **May 2020**. I am open to opportunities as in *Software Engineer, Data Engineer, Data Analytics, Machine Leaning Engineer* starting July 2020. Given any opportunity in research, my research interests lies in the field of **Machine Learning and Artificial Intelligence**.
+I am enrolled in graduate program in **Computer Science** at **Arizona State University** anticipated to graduate in **May 2020**. I am open to opportunities as in *Software Engineer, Data Engineer, Data Analytics, Machine Leaning Engineer* starting July 2020. Given any opportunity in research, my research interests lies in the field of **Machine Learning and Artificial Intelligence**.
 
-I completed my **Under-graduation** program at **Charotar University of Science and Technology, India** in the field of **Information Technology**. It is very pleasing to share that I ended up being **Gold Medalist** at my university during under graduate program.
+I completed my Under-graduation program at **Charotar University of Science and Technology, India** in the field of **Information Technology**. It is very pleasing to share that I ended up being **Gold Medalist** at my university during under graduate program.
 
 Apart from my academics, I always sought out opportunities and challenges that are meaningful to me. I love creating application which tend to change the world. My mission-driven work ethic helps me to keep my focus strong and make a big impact at high growth company. I always try to solve problems which are tricky to solve. I have done many academic projects in the field of Machine Learning, Data Science and Artificial Intelligence. I look to challenge myself further more to dive deep into these fields by creating more projects independently.
 
@@ -20,4 +20,4 @@ This website demonstrates my educational qualifications and experience I gained 
 # How to Contact Me
 Please contact me through [Email](mailto:tpshah2@asu.edu) or connect with me on [Linkedin](https://www.linkedin.com/in/tirthshah08).
 
-Finally, I would like to thank you for visiting my Website. : .text-justify}
+Finally, I would like to thank you for visiting my Website. </div>
