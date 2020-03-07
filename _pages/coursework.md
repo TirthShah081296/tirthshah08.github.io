@@ -1,7 +1,6 @@
 ---
 title: "Coursework"
 permalink : /coursework/
-tags: [Coursework]
 header:
   image: ""
 author_profile: true
