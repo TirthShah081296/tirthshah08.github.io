@@ -1,11 +1,9 @@
 ---
-
 layout: single
 header:
-  image: "/images/waterfront.jpg"
+  image: "https://github.com/TirthShah081296/tirthshah081296.github.io/blob/master/images/wallpaper.jpg"
 author_profile: true
 ---
-
 ## About me
 I am enrolled in graduate program in **Computer Science** at **Arizona State University** anticipated to graduate in **May 2020**. I am open to opportunities as in *Software Engineer, Data Engineer, Data Analytics, Machine Learning Engineer* starting July 2020. Given any opportunity in research, my research interests lies in the field of **Machine Learning and Artificial Intelligence**.
 
