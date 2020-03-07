@@ -12,11 +12,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon"
+minimal_mistakes_skin    : "mint"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to my Portfolio"
+title                    : "Welcome to Tirth's Portfolio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Tirth Shah"
@@ -149,9 +149,11 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/tirthpshah96"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
+      url: "https://github.com/TirthShah081296"
       # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
@@ -162,6 +164,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/tirthshah08"
 
 
 # Reading Files
@@ -302,3 +307,10 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
