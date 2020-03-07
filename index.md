@@ -15,9 +15,9 @@ Apart from my academics, I always sought out opportunities and challenges that a
 # Why this Website
 This website is created as I wanted to learn use of **Jekyll** with **Github pages**. I always want to do something different. Apart from doing all Machine learning and Data science projects, *it is important to gain some experience developing front end to ensure myself that I am complete package that comes with Computer Science student*.
 
-This website demonstrates my educational qualifications and experience I gained through multiple internships. Detailed description with each project that I have worked on is attached. *This website serves the purpose of demonstrating my technical skills and familiarity with tools and technologies to recruiters*.
+This website demonstrates my educational qualifications and experience I gained through multiple internships. Detailed description with each project that I have worked on is attached. *This website serves the purpose of demonstrating my technical skills and familiarity with tools and technologies to recruiters*.{: .text-justify}
 
 # How to Contact Me
 Please contact me through Email [Link](mailto:tpshah2@asu.edu) or connect with me on linkedin [Link](https://www.linkedin.com/in/tirthshah08).
 
-Finally, I would like to thank you for visiting my Website.
+Finally, I would like to thank you for visiting my Website.{: .text-justify}
