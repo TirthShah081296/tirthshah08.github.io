@@ -128,28 +128,24 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/tirthshah08"
+    -label: "Resume"
+      icon: "fab fa-fw fa-file"
+      url: "https://drive.google.com/open?id=1mUiX7OFPwWsRzw0GfqeOjOtOtsSrS0Ms"
 
 # Site Footer
 footer:
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
-      url : mailto:tpshah2@asu.edu
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      # url:
       url: "https://www.facebook.com/tirthpshah96"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github-square"
-      # url: "https://github.com/"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/TirthShah081296"
+      # url:
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/tirthshah08"
-    -label: "Resume"
-      icon: "fab fa-fw fa-file"
-      url: "https://drive.google.com/open?id=1mUiX7OFPwWsRzw0GfqeOjOtOtsSrS0Ms"
 
 
 # Reading Files
@@ -288,14 +284,5 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
-      related: true
-
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
       share: true
       related: true
